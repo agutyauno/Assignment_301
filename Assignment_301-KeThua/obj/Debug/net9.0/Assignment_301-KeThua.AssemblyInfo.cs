@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment_301-KeThua")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7571ae393f75c85c8f5bb99da9b5e11dc17bc926")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d49b162235ce2d3872cec047e1cb5f255a7f4a61")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment_301-KeThua")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment_301-KeThua")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

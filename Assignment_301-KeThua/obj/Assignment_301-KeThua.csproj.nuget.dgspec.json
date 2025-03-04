@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\Assignment_301-KeThua.csproj": {}
+    "d:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\Assignment_301-KeThua.csproj": {}
   },
   "projects": {
-    "D:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\Assignment_301-KeThua.csproj": {
+    "d:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\Assignment_301-KeThua.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\Assignment_301-KeThua.csproj",
+        "projectUniqueName": "d:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\Assignment_301-KeThua.csproj",
         "projectName": "Assignment_301-KeThua",
-        "projectPath": "D:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\Assignment_301-KeThua.csproj",
+        "projectPath": "d:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\Assignment_301-KeThua.csproj",
         "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-        "outputPath": "D:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\obj\\",
+        "outputPath": "d:\\Git_Repo\\Assignment_301\\Assignment_301-KeThua\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config"

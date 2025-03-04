@@ -23,19 +23,31 @@ internal class Program
                     Console.WriteLine("tao tai khoan thanh toan");
                     string input = InputCheck.String("nhap so tai khoan: ");
                     CheckingAccount checkingAccount = new(input);
+                    var account = accounts.FirstOrDefault(x => x.AccountNumber == input);
+                    if (account != null)
+                    {
+                        Console.WriteLine("tai khoan da ton tai");
+                        break;        
+                    }
                     accounts.Add(checkingAccount);
                     break;
                 case 2:
                     Console.WriteLine("tao tai khoan tiet kiem");
                     input = InputCheck.String("nhap so tai khoan: ");
                     SavingsAccount savingsAccount = new(input);
+                    account = accounts.FirstOrDefault(x => x.AccountNumber == input);
+                    if (account != null)
+                    {
+                        Console.WriteLine("tai khoan da ton tai");
+                        break;        
+                    }
                     accounts.Add(savingsAccount);
                     break;
                 case 3:
                     Console.WriteLine("gui tien");
                     PrintAccount();
                     input = InputCheck.String("chon tai khoan de gui tien");
-                    var account = accounts.FirstOrDefault(x => x.AccountNumber == input);
+                    account = accounts.FirstOrDefault(x => x.AccountNumber == input);
                     if (account != null)
                     {
                         account.CurrentBalance += InputCheck.Decimal("nhap so tien gui: ");
@@ -63,6 +75,7 @@ internal class Program
                         break;
                     }
                     account.Withdraw(amount);
+                    Console.WriteLine("rut tien thanh cong");
                     break;
                 case 5:
                     Console.WriteLine("xem thong tin tai khoan");
@@ -79,9 +92,10 @@ internal class Program
 
     static void PrintAccount()
     {
+        Console.WriteLine("{0,-20}|{1,-50}|{2,-20}", "so tai khoan", "so du", "loai tai khoan");
         foreach (var item in accounts)
         {
-            Console.WriteLine($"so tai khoan: {item.AccountNumber}, so du: {item.CurrentBalance}");
+            Console.WriteLine($"{item.AccountNumber,-20}|{item.CurrentBalance,-50}|{item.GetType().Name,-20}");
         }
     }
 }

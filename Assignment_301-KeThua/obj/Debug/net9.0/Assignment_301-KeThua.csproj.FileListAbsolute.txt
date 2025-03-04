@@ -1,0 +1,15 @@
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\bin\Debug\net9.0\Assignment_301-KeThua.exe
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\bin\Debug\net9.0\Assignment_301-KeThua.deps.json
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\bin\Debug\net9.0\Assignment_301-KeThua.runtimeconfig.json
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\bin\Debug\net9.0\Assignment_301-KeThua.dll
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\bin\Debug\net9.0\Assignment_301-KeThua.pdb
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\Assignment_301-KeThua.GeneratedMSBuildEditorConfig.editorconfig
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\Assignment_301-KeThua.AssemblyInfoInputs.cache
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\Assignment_301-KeThua.AssemblyInfo.cs
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\Assignment_301-KeThua.csproj.CoreCompileInputs.cache
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\Assignment_301-KeThua.sourcelink.json
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\Assignment_301-KeThua.dll
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\refint\Assignment_301-KeThua.dll
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\Assignment_301-KeThua.pdb
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\Assignment_301-KeThua.genruntimeconfig.cache
+d:\Git_Repo\Assignment_301\Assignment_301-KeThua\obj\Debug\net9.0\ref\Assignment_301-KeThua.dll
