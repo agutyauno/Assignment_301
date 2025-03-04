@@ -57,7 +57,7 @@ internal class Program
                     }
                     
                     decimal amount = InputCheck.Decimal("nhap so tien rut: ");
-                    if (account.CurrentBalance < amount)
+                    if (account is SavingsAccount && account.CurrentBalance < amount)
                     {
                         Console.WriteLine("so du khong du");
                         break;
